@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-LIVE-LINK-HERE">
+  <a href="https://claude.ai/public/artifacts/9f46d02c-0c9c-4f4a-aa61-0e511803c36c">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-8B5CF6?style=for-the-badge" />
   </a>
 </p>
