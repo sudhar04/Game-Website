@@ -182,33 +182,6 @@ The platform provides navigation between:
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home
-
-<p align="center">
-  <img src="YOUR-HOME-SCREENSHOT-URL" width="90%" />
-</p>
-
-### 🎮 Game Library
-
-<p align="center">
-  <img src="YOUR-GAMES-SCREENSHOT-URL" width="90%" />
-</p>
-
-### 🏆 Tournaments
-
-<p align="center">
-  <img src="YOUR-TOURNAMENT-SCREENSHOT-URL" width="90%" />
-</p>
-
-### 🥇 Leaderboard
-
-<p align="center">
-  <img src="YOUR-LEADERBOARD-SCREENSHOT-URL" width="90%" />
-</p>
-
----
 
 ## 🎬 Project Demo
 
