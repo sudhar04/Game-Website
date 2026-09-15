@@ -49,7 +49,7 @@ animations, and HTML Canvas-based gameplay.
 
 <p align="center">
   <img 
-    src="./assets/cricket-game.png" 
+    src="./assets/game.png" 
     alt="SportHub Cricket Game"
     width="90%"
   />
