@@ -33,6 +33,50 @@ animations, and HTML Canvas-based gameplay.
 
 ---
 
+## 🖼️ Project Screenshots
+
+### 🏠 SportHub Home
+
+<p align="center">
+  <img 
+    src="./assets/sporthub-home.png" 
+    alt="SportHub Home Page"
+    width="90%"
+  />
+</p>
+
+### 🎮 Gameplay
+
+<p align="center">
+  <img 
+    src="./assets/cricket-game.png" 
+    alt="SportHub Cricket Game"
+    width="90%"
+  />
+</p>
+
+### 🏆 Tournaments
+
+<p align="center">
+  <img 
+    src="./assets/tournaments.png" 
+    alt="SportHub Tournaments"
+    width="90%"
+  />
+</p>
+
+### 🥇 Leaderboard
+
+<p align="center">
+  <img 
+    src="./assets/leaderboard.png" 
+    alt="SportHub Leaderboard"
+    width="90%"
+  />
+</p>
+
+---
+
 ## ✨ Key Features
 
 - 🎮 Multiple playable sports and arcade games
